@@ -1,0 +1,25 @@
+#!/bin/bash
+php /var/www/html/evento.php
+php /var/www/html/flush.php
+php /var/www/html/docsis-actualiza.php
+php /var/www/html/wifi-mt.php
+sleep 10
+php /var/www/html/evento.php
+php /var/www/html/flush.php
+php /var/www/html/docsis-actualiza.php
+php /var/www/html/wifi-mt.php
+sleep 10
+php /var/www/html/evento.php
+php /var/www/html/flush.php
+php /var/www/html/docsis-actualiza.php
+php /var/www/html/wifi-mt.php
+sleep 10
+php /var/www/html/evento.php
+php /var/www/html/flush.php
+php /var/www/html/docsis-actualiza.php
+php /var/www/html/wifi-mt.php
+sleep 10
+php /var/www/html/evento.php
+php /var/www/html/flush.php
+php /var/www/html/docsis-actualiza.php
+php /var/www/html/wifi-mt.php
